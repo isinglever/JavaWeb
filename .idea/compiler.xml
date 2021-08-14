@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Servlet01" />
         <module name="Servlet02" />
+        <module name="Download" />
       </profile>
     </annotationProcessing>
   </component>

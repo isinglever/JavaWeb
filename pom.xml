@@ -11,6 +11,7 @@
   <modules>
     <module>Servlet01</module>
     <module>Servlet02</module>
+    <module>Download</module>
   </modules>
 
   <dependencies>
