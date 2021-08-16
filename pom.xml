@@ -12,6 +12,8 @@
     <module>Servlet01</module>
     <module>Servlet02</module>
     <module>Download</module>
+    <module>VerificationCode</module>
+      <module>Jsp</module>
   </modules>
 
   <dependencies>
